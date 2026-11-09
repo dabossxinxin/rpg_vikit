@@ -1,0 +1,3 @@
+# Vendored rpg_vikit sources (upstream style, not formatted by this workspace).
+DisableFormat: true
+SortIncludes: Never
